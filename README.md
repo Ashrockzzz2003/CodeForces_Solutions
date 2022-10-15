@@ -8,6 +8,8 @@ My solutions codes for problems and contests from CodeForces
 | 1 | [A.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23827%20(Div%20.4)/A.cpp "A.cpp") |
 | 2 | [B.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23827%20(Div%20.4)/B.cpp "B.cpp") |
 | 3 | [C.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23827%20(Div%20.4)/C.cpp "C.cpp") |
+| 4 | [D.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23827%20(Div%20.4)/D.cpp "D.cpp") |
+| 5 | [E.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23827%20(Div%20.4)/E.cpp "E.cpp") |
 
 # Round #817 (Div .4)
  
