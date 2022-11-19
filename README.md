@@ -1,7 +1,14 @@
 # CodeForces_Solutions
 My solutions codes for problems and contests from CodeForces
 
-# Round #827 (Div .4)
+# Round #834 (Div .3)
+
+| Question | Code |
+| -------- | ---- |
+| 1 | [A.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23834%20(Div%20.4)/A.cpp "A.cpp") |
+| 2 | [B.py](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23834%20(Div%20.4)/B.py "B.py") |
+
+# Round #827 (Div .2)
 
 | Question | Code |
 | -------- | ---- |
@@ -19,7 +26,7 @@ My solutions codes for problems and contests from CodeForces
 | 2 | <a href="https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23817%20(Div%20.4)/spell_check.cpp">spell_check.cpp</a> |
 | 3 | <a href="https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23817%20(Div%20.4)/word_game.py">word_game.py</a> |
 
-# Round #806 (Div .4)
+# Round #806 (Div .2)
 
 | Question | Code |
 | - | ---- |
