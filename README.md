@@ -1,6 +1,14 @@
 # CodeForces_Solutions
 My solutions codes for problems and contests from CodeForces
 
+# Round #835 (Div .4)
+
+| Question | Code |
+| -------- | ---- |
+| 1 | [A.py](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23835%20(Div%20.4)/A.py "A.py") |
+| 2 | [B.py](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23835%20(Div%20.4)/B.py "B.py") |
+| 3 | [C.py](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23835%20(Div%20.4)/C.py "C.py") |
+
 # Round #834 (Div .3)
 
 | Question | Code |
