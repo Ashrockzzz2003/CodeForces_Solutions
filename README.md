@@ -1,6 +1,13 @@
 # CodeForces_Solutions
 My solutions codes for problems and contests from CodeForces
 
+
+# Round #846 (Div. 2)
+
+| Question | Code |
+| -------- | ---- |
+| 1 | [A.cpp](https://github.com/Ashrockzzz2003/CodeForces_Solutions/blob/main/Round%20%23846%20(Div.%202)/A.cpp "A.cpp") |
+
 # Round #835 (Div .4)
 
 | Question | Code |
